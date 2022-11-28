@@ -1,0 +1,1 @@
+<h1>Échec de la réservation (pas assez de places disponible.)</h1>
